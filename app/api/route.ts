@@ -4,7 +4,7 @@ export function GET(){
 
     console.log("Get request received");
     return NextResponse.json({
-        message : "Get request received in to /api"
+        message : "Get request receive in to /ap ok now"
     })
     
 }
